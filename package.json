@@ -10,7 +10,7 @@
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
     "moment": "2.24.0",
-    "moment-timezone": "0.5.28",
+    "moment-timezone": "0.5.35",
     "lodash": "4.17.15"
   },
   "scripts": {
